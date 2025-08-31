@@ -1,0 +1,37 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #eff1f5;
+  margin: 0;
+  padding: 20px;
+  color: #070101;
+}
+h1 {
+    text-align: center;
+    color: rgb(105, 4, 151);
+}
+   #container{ 
+    font-size: 20px;
+    font-family: Arial; 
+    text-align: center;
+}
+.tarjeta {
+  max-width: 400px;
+  margin: 0 auto; 
+  background: #58647a;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  text-align: left; 
+}
+.tarjeta p {
+  margin: 8px 0;
+  padding: 8px;
+  background: #a37499;
+  border-radius: 6px;
+}
+
+.tarjeta p:hover {
+  background: #7ca8cc; 
+}
+h2 { 
+    text-align: center;
+}
